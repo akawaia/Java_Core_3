@@ -67,3 +67,11 @@ public class ClassForTest {
         }
     }
 }
+//Получился такой результат
+//    This is seventh method
+//    This is fifth method
+//    This is third method
+//    This is second method
+//    This is fourth method
+//    This is sixth method
+//    This is first method
